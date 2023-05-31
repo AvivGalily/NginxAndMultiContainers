@@ -5,7 +5,7 @@ import pymongo
 app = Flask(__name__)
 ERR_STATUS, OK_STATUS = 409, 200
 
-X_Api_key = '7+4oMBnrMSKOOU1Ck62Pvg==2O3G4LxAIbnXo8Ms'
+X_Api_key = 'insert_ninja_api_key_here' #  insert your api key for https://api.api-ninjas.com/v1/nutrition 
 
 dishes = []
 meals = []

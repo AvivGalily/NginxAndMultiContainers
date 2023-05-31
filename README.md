@@ -5,6 +5,7 @@ in this project the user can send rest api request to meals Container and to die
 this project use MongoDB to save the data from user incase of failure.
 There is also implementation of loab balncer in case of hige demands.
 ngix on port 80, meals on port 5001, diets on port 5002.
+
 • GET URI:port/meals?diet=<name>
 This request returns those meals that conforms to the diet.
   

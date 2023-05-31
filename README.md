@@ -7,6 +7,8 @@ There is also implementation of loab balncer in case of hige demands.
 ngix on port 80, meals on port 5001, diets on port 5002.
 • GET URI:port/meals?diet=<name>
 This request returns those meals that conforms to the diet.
+  
+  *****IN ORDER FOR THE CODE TO WORK YOU NEED TO INSERT YOUR API KEY FROM NINJA-API AT https://api-ninjas.com/  INSIDE OF meals.py FILE AT THE MARKED PLACE******
 
 
 
